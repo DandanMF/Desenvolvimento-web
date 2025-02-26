@@ -1,0 +1,264 @@
+
+IMC..............................................................
+
+O índice de massa corporal de um adulto é o seu peso em quilos (por exemplo, 80 kg), dividido por sua altura ao quadrado (vamos imaginar, 1,80 m x 1,80 m).
+
+fonte: https://abeso.org.br/obesidade-e-sindrome-metabolica/calculadora-imc/
+
+
+
+
+Quantidade de proteínas diárias..............................................................................
+
+A International Society of Sports Nutrition, entidade que orienta as diretrizes internacionais de nutrição esportiva, coloca que o consumo de proteína diário varia de acordo com o estilo de vida, tipo de exercício praticado e peso de cada pessoa.
+
+Play Video
+Segundo a organização, quem realiza exercício físico regularmente deve ingerir entre 1,4 a 2,0 g por quilo por dia de proteína, sendo que os praticantes de atividades de endurance (como maratona e triatlo, por exemplo) devem ficar no limite inferior dessa faixa.
+
+Já quem faz atividades intermitentes (exercícios que mesclam alta e baixa intensidade, como futebol e vôlei, por exemplo) deve consumir níveis no meio dessa faixa. No entanto, aqueles que praticam exercícios de força/potência (musculação) devem ingerir níveis na extremidade superior da recomendação.
+
+Para as pessoas que não praticam exercícios, a recomendação fica em torno de 1 g/kg/dia de proteína. Essa quantidade já é suficiente para atender bem as necessidades de homens e mulheres adultos. 
+
+fonte: https://www.metropoles.com/saude/como-calcular-quantidade-proteina-por-dia
+
+
+
+
+Taxa Metabólica Basal (TMB) e Gasto Calórico Diário...................................................................
+
+ABAIXO TEM O METABOLISMO E O GASTO CALÓRIOCO
+
+Organização Mundial de Saúde criou uma fórmula para estimar a taxa metabólica basal de acordo com a idade e o sexo, como explicado na tabela a seguir:
+
+Idade		Mulher				Homem
+
+0 a 3 anos	(58,317 x peso em kg) – 31,1	(59,512 x peso em kg) – 30,4
+
+3 a 10 anos	(20,315 x peso em kg) + 485,9	(22,706 x peso em kg) + 504,3
+
+10 a 18 anos	(13,384 x peso em kg) + 692,6	(17,686 x peso em kg) + 658,2
+
+18 a 30 anos	(14,818 x peso em kg) + 486,6	(15,057 x peso em kg) + 692,2
+
+30 a 60 anos	(8,126 x peso em kg) + 845,6	(11,472 x peso em kg) + 873,1
+
+≥ 60 anos	(9,082 x peso em kg) + 658,5	(11,711 x peso em kg) + 587,7
+
+O cálculo da taxa metabólica basal também pode ser feito através de um teste chamado calorimetria, onde se calcula o gasto de energia de acordo com o gás carbônico produzido durante a respiração. Com este método também é possível avaliar a influência da atividade física sobre a taxa metabólica basal. No entanto, este tipo de exame só existe em laboratórios especializados, não estando disponível para a maioria das pessoas.
+
+Os valores do fator de atividade consideram a média entre o tempo e o tipo de atividades realizadas ao longo do dia:
+
+Leve: considera atividades como cozinhar; limpar a casa; cuidar de crianças; trabalhar sentado; e caminhar até 1 hora por dia - considerar 1,55 para o cálculo;
+Moderada: inclui atividades como fazer 1 hora diária de corrida, ciclismo, natação ou dança; trabalhar como operário de construção, garçom, vendedor de porta em porta, carteiro ou entregador de mercadorias leves - considerar 1,84 para o cálculo;
+Intensa: considera atividades como natação, corrida, andar de bicicleta ou dançar 2 horas por dia; trabalhador rural que trabalha com instrumentos manuais e caminham longas distâncias, várias horas por dia; ou entregador de mercadorias pesadas - considerar 2,2 para o cálculo.
+Identificar o fator de atividade é fundamental para calcular o gasto calórico diário, já que a quantidade de calorias gastas durante o dia variam de acordo com o nível de atividade que a pessoa tem, o que influencia no metabolismo.
+
+Exemplo de cálculo de gasto calórico diário
+Para saber o gasto calórico de uma mulher de 32 anos, com 70 Kg que trabalha sentada e que pratica caminhada 5 vezes por semana, a calculadora faz os seguintes cálculos:
+
+Gasto energético basal: (8,126 x Peso) + 845,6 =  1414,42 calorias.
+Gasto calórico total diário:  1414,42  calorias  x  fator de atividade (1,55).
+A quantidade de calorias totais que essa mulher gasta é de 2102,35 calorias por dia.
+
+fonte: https://www.tuasaude.com/calculadora/taxa-metabolica-basal/
+
+
+
+
+
+Percentual de Gordura Corporal..........................................................................
+
+O percentual de gordura corporal ideal, de acordo com o Conselho Americano de Exercício, é de 14 a 31% em mulheres e de 6 a 24% nos homens. Este índice de gordura corporal mede a quantidade de gordura que o corpo deve conter dependendo do sexo.
+
+A tabela a seguir indica os valores ideais de gordura corporal ideal feminino e masculino:
+
+Descrição	Mulheres	Homens
+Gordura essencial   De 10 a 13%	De 2 a 5%
+Atletas		De 14 a 20%       De 6 a 13%
+Praticantes de atividades físicas	De 21 a 24%	De 14 a 17%
+Aceitável	De 25 a 31%	De 18 a 24%
+Obesidade	Acima de 32%	Acima de 25%
+
+fonte: https://www.tuasaude.com/gordura-corporal-ideal/
+
+
+
+
+
+Peso Ideal.................................................................................
+
+O IMC, ou índice de massa corporal, é uma medida universal adotada pela OMS (Organização Mundial de Saúde) para identificar dados preditivos de saúde por meio da classificação do peso do indivíduo em relação à sua altura.
+
+Esse método é bastante prático. Por isso, é comumente utilizado para verificar se cada pessoa está dentro, acima ou abaixo do peso ideal e para conhecer as possibilidades de doenças que se possa estar propensa a desenvolver.
+
+Apesar de a metodologia ser rápida e simples, ela não está livre de falhas. Por isso, é sempre interessante utilizá-la em conjunto com outras opções, como exames médicos, avaliações físicas e consultas com nutricionistas.
+
+Afinal, não basta apenas conhecer os números, é preciso entender o que eles representam e de que forma podem nortear seu caminho rumo ao emagrecimento saudável e à conquista do seu peso ideal.
+
+fonte: https://sallet.com.br/o-que-e-peso-ideal-e-como-calcula-lo/
+
+
+
+
+
+Quantidade de Água Diária............................................................................
+
+O cálculo da quantidade de água que uma pessoa pode ingerir por dia é feito com base no peso corporal e idade da pessoa.
+
+Assim, para jovens até os 17 anos é recomendado 40 mL por cada kg, para adultos 35 mL por cada kg e para idosos entre 25 a 30 mL para cada kg de peso corporal. Veja quantos litros de água é recomendado por idade.
+
+No entanto, a hidratação diária, ou seja, a quantidade de líquidos recomendada para ingerir por dia, também pode ser influenciada por fatores como gênero, altura corporal, gravidez, amamentação, clima, prática de exercícios físicos e estado geral de saúde.
+
+O que pode afetar a quantidade de água recomendada
+Alguns fatores podem aumentar as necessidades de ingestão de água por dia, como:
+
+Temperatura altas e baixa umidade do ar;
+Altitudes altas;
+Infecções;
+Febre;
+Vômitos ou diarreia;
+Exercícios físicos;
+Gravidez ou amamentação.
+Além disso, em alguns casos, como na insuficiência renal, pode ser indicado beber menos água por dia, uma vez que os rins não funcionam adequadamente para eliminar o excesso de água do corpo, e por isso, para substituir a função do rim é normalmente indicada a hemodiálise ou o transplante renal.
+
+CURIOSIDADES: Beber muita água faz mal?
+Assim como beber pouca água pode causar problemas para a saúde, como a desidratação, beber muita água pode causar intoxicação por água devido ao desequilíbrio de eletrólitos no corpo que são importante para manter as funções musculares, cardíacas e cerebrais. Saiba identificar os sintomas da intoxicação por água.
+
+O ideal é consultar um nutricionista que pode avaliar o estado de saúde geral, os fatores que influenciam nas necessidades diárias de ingestão de água, e assim, indicar quantos litros de água por dia a pessoa pode tomar de forma individualizada.
+
+Marque uma consulta com um nutricionista na região mais próxima:
+
+Parceria com
+agende sua consulta online
+Disponível em: São Paulo, Rio de Janeiro, Distrito Federal, Pernambuco, Bahia, Maranhão, Pará, Paraná, Sergipe e Ceará.
+Qual a importância de beber água
+Beber água diariamente é importante para manter o corpo hidratado, evitar a prisão de ventre, aumentar o metabolismo corporal, regular a temperatura do corpo, prevenir infecções urinárias, ajudar a eliminar pedras dos rins e evitar a retenção de líquidos, por exemplo.
+
+Além disso, beber água diariamente ajuda a regular a pressão arterial, melhora o desempenho durante os exercícios físicos e evita a desidratação. Saiba identificar os sintomas de desidratação.
+
+Leia também: 10 benefícios da água para a saúde (com receitas saborosas)
+tuasaude.com/beneficios-de-beber-agua
+Outras bebidas influenciam na quantidade de água por dia?
+Outras bebidas, como chás, café, sucos, bebidas esportivas ou energéticos, possuem água na sua composição, o que pode adicionar mais água ao corpo, contribuindo para o balanço hídrico.
+
+Além disso, o consumo de frutas ricas em água, como melancia, melão ou abacaxi, por exemplo, também ajudam a hidratar o corpo.
+
+fonte: https://www.tuasaude.com/calculadora/consumo-de-agua-diario/
+
+
+
+
+Macronutrientes Diários......................................................................
+
+Provavelmente você já ouviu o termo “macronutrientes”. Ele se refere a proteínas, carboidratos e gorduras, os três componentes básicos de todas as dietas. O fato é que, se você ingerir as proporções corretas de macronutrientes, sua dieta será muito mais eficaz do que uma simples restrição de calorias.
+
+O grande problema da contagem de calorias tradicional é que só é levada em conta a quantidade de calorias ingeridas e não o que você está comendo - os nutrientes ingeridos.
+
+Calcular quantos gramas de macronutrientes devem ser ingeridos permite determinar o que funciona melhor para você. Aqui vão algumas dicas de como calcular quantas gramas de cada macronutriente você precisa pra melhorar sua dieta.
+
+Proteínas
+1 grama = 4 calorias
+A proteína é geralmente associada com o crescimento muscular e encontrada principalmente em alimentos como carne e laticínios. No entanto, seus usos vão muito além do crescimento muscular: a proteína é o nutriente central de órgãos, ossos, cabelo, enzimas e praticamente todos outros tipos de tecido em seu corpo.
+
+As proteínas são feitas de aminoácidos. O próprio corpo produz alguns aminoácidos, mas existem nove aminoácidos necessários para o funcionamento do seu corpo que não são produzidos pelo organismo. São chamados aminoácidos essenciais e geralmente são encontrados em carnes.
+
+Carboidratos
+1 grama = 4 calorias
+Embora seja ~tecnicamente~ o único macronutriente que seu corpo pode sobreviver sem, não seria muito legal ficar sem ele. Carboidratos são a fonte de energia. São divididos em glicogênio (usado pelos músculos e fígado) e glicose (usado pelo cérebro).
+
+Carboidratos são amplamente divididos em carboidratos simples e complexos. As duas classificações referem-se ao comprimento das moléculas de carboidrato. Quanto menor a cadeia de molécula, mais fácil de ser quebrada e absorvida, por isso é chamada de “simples" - composto basicamente por açúcares. Por outro lado, as moléculas maiores, como o amido, são "complexos" porque levam mais tempo para o organismo dividir os nutrientes aproveitáveis.
+
+Gorduras
+1 grama = 9 calorias
+As gorduras são os componente-chave de suplementos alimentares essenciais, como nutella e bacon (risos). As gorduras muitas vezes são rejeitadas, por estarem associadas aos alimentos mais calóricos. Mas não se engane: elas são muito importantes para funções vitais do corpo. As gorduras são importantes, por exemplo, para produção de hormônios.
+
+Existem vários tipos diferentes de gorduras. Se pegar a informação nutricional de qualquer alimento você vai perceber, desde saturada até monoinsaturados e poliinsaturadas. Mas existem três principais: gordura trans, ômega-3 e ômega-6.
+
+As gorduras trans aumentam o risco de doenças cardíovasculares e devem ser evitadas. São encontradas geralmente em alimentos industrializados e, principalmente, em margarinas. Os dois últimos, no entanto, são os chamados ácidos graxos essenciais. Assim como os aminoácidos essenciais, seu corpo não pode produzi-los. Omega-3 pode ser encontrado em peixes gordurosos (salmão e atum), linho e nozes e ômega-6 é conhecido também como óleo vegetal.
+
+Afinal, quantos macronutientes eu preciso?
+Já demos a dica de como calcular quantas calorias você realmente precisa. O número varia de acordo com idade, sexo, peso, massa e atividade muscular. Ingerir mais calorias acarretará em ganho de peso, enquanto ingerir menos fará o contrário.
+
+Há duas maneiras de determinar suas metas de macronutrientes. O método mais simples é atribuir calorias em relação aos nutrientes com uma divisão de porcentagem. O mais comum é dividido 40:40:20, ou seja, 40% das calorias atribuída à proteína, 40% de carboidrato e 20% de gorduras.
+
+A partir daqui, saber quantos gramas de cada macronutriente você precisa é uma questão de aritmética simples. Como exemplo, digamos que seu alvo de ingestão calórica é 2 mil calorias por dia. A conta é simples:
+
+40% de suas calorias são dedicados a sua ingestão de carboidratos.
+2.000 x 0,4 = 800 calorias (40%).
+Sabendo que existem 4 calorias por grama de carboidratos, o montante total é de 200 gramas de carboidratos (800 ÷ 4 = 200).
+Repita processo para proteínas e gorduras.
+
+Lembramos que isso é só um exemplo. O ideal para iniciar uma dieta é procurar uma nutricionista.
+
+fonte: https://revistagalileu.globo.com/Life-Hacks/noticia/2015/05/calorias-que-nada-aprenda-calcular-os-macronutrientes-da-sua-dieta.html
+
+
+
+
+
+Carga de Treino......................................................................
+
+Ao fazer um treino cardiovascular (como correr em uma esteira ou pedalar em uma bicicleta ergométrica), você pode monitorar a intensidade do treinamento, e não é com um monitor cardíaco. Estamos falando da percepção de esforço.
+
+O que é intensidade do treino? 
+
+Na musculação, “intensidade” caracteriza-se pelo trabalho realizado durante uma série de um exercício e é diretamente relacionada com a carga utilizada. 
+
+Como calcular a intensidade do treino? 
+
+O ideal é calcular subtraindo 220 sobre a sua idade. Por exemplo, se você tem 35 anos, subtraia 35 de 220 para obter uma frequência cardíaca máxima por minuto de 185. No entanto, é essencial conversar com o seu médico e realizar exames antes de iniciar qualquer atividade física.
+
+Como calcular volume e intensidade de treino?
+
+ A maneira mais simples de calcular o volume é multiplicar o número de repetições realizadas em um período específico de tempo de treinamento, tal como uma semana ou um mês pela carga levantada. Por exemplo, se 45 kg são usados para realizar 100 repetições, o volume de treinamento é de 450 kg = 10 repetições X 45 kg.
+
+ Pratique Fitness: O Cuidado que você merece!
+
+Quadro de Percepção de Esforço
+
+Para obter todos os benefícios do treinamento cardio, você precisa se exercitar dentro da faixa de intensidade recomendada.
+
+O principal objetivo deste quadro é ajudá-lo a entender e medir, aproximadamente, sua frequência cardíaca usando os sinais que seu corpo está lhe dando.
+
+Familiarizando-se com esta escala, você pode avaliar os níveis de exercício e fazer ajustes para garantir a eficácia do seu programa de condicionamento físico.
+
+Pratique Fitness: Tenha uma vida mais alegre e saudável!
+
+E quais são os níveis do Quadro de Percepção de Esforço?
+
+Fácil: neste ponto seu esforço está, mais ou menos, em 65% da capacidade total. Você não está ofegante, e, conseguiria conversar tranquilamente. A sensação é a mesma de dar um passeio. O exercício que você está praticando não demanda uma frequência cardíaca
+Moderado: nesse momento o seu esforço está em 70%. Você já começa a sentir a respiração oscilar e a sua frequência vai aumentando. Você já está saindo da zona de conforto.
+Moderado Alto: a partir desse momento a percepção de esforço começa a subir um pouco mais e você fica levemente desconfortável, mas não a ponto de querer parar para descansar.
+Forte: o esforço em 80%, ideal gastar calorias. Nesse nível, o corpo já vai dando demonstrações de cansaço.
+Muito Forte: você está a 85% do seu esforço físico máximo. Suas pernas estão bem cansadas mesmo! Você sente a respiração bem ofegante e a necessidade de parar para descansar.
+Máximo: você está extremamente ofegante e cansado(a). A necessidade de parar o exercício é imediata.
+
+fonte: https://pratiquefitness.com.br/blog/como-calcular-a-intensidade-do-treino-na-academia/
+
+
+
+
+
+Tempo para Alcançar um Objetivo.......................................................................
+
+A Organização Mundial da Saúde (OMS) recomenda que adultos pratiquem entre 150 a 300 minutos de atividade física moderada ou 75 a 150 minutos de atividades intensas por semana para manter a saúde. Esses números são uma boa referência para evitar o sedentarismo, mas a eficácia do treino pode variar conforme a intensidade e a duração das sessões.
+
+O que realmente importa é o esforço e a intensidade do treino. Treinos mais longos podem gerar um maior gasto calórico devido ao tempo de execução, mas os treinos curtos e intensos aumentam a taxa metabólica de forma mais significativa, exigindo que o corpo se adapte rapidamente para atender à demanda do exercício.
+
+Para escolher o tipo de abordagem mais adequada, é importante levar em conta sua disponibilidade de tempo e sua preferência pessoal. O especialista sugere duas abordagens para treinos eficazes:
+
+4 treinos de 20 minutos por semana (com alta intensidade);
+3 treinos de 50 minutos por semana (com intensidade moderada).
+
+Para sair do sedentarismo
+Para sair do sedentário e melhorar a saúde, o ideal é realizar atividades físicas moderadas de 30 minutos, pelo menos cinco vezes por semana, ou intensas por 20 minutos, três vezes por semana. Lucas Kobol sugere que o treino misture fortalecimento muscular e cardio para obter benefícios completos. Entre as melhores atividades estão caminhadas, natação, dança e pilates.
+
+Para ganhar massa muscular
+O ganho de massa muscular requer uma abordagem focada em treinos de força e resistência, que variam conforme o seu nível. Iniciantes podem começar com três treinos por semana, enquanto pessoas com nível mais avançado podem realizar até seis.
+
+Para otimizar o ganho muscular é importante combinar os treinos de musculação com exercícios cardiovasculares moderados. Por exemplo, o treino de musculação associado a atividades funcionais, yoga, ou algum dos exercícios citados anteriormente.
+
+Palavras de Daniel: essa é uma questão que depende muito do objetivo da pessoa e da sua disponibilidade e acima de tudo força de vontade
+
+fonte: https://gauchazh.clicrbs.com.br/donna/noticia/2025/01/descubra-a-frequencia-de-treino-ideal-para-alcancar-seus-objetivos-cm681cqgy0146015d7vbkmrlc.html
+
